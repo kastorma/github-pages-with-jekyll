@@ -1,6 +1,6 @@
 ---
 title: "Kasia blog post"
-date: 201920-07-208
+date: 2020-07-28
 ---
 
 This is a second test blog post.
